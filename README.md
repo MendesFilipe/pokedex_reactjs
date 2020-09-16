@@ -50,7 +50,7 @@ Para compilar a aplicação basta seguir os dois passos abaixo:
 - [React](https://reactjs.org/) 
 - [Jest](https://jestjs.io/) 
 
-## Licença :page_with_curl:
+## Licença ⚖
 
 Esse projeto possui a licença **MIT**.
 
